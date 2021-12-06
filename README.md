@@ -6,8 +6,6 @@ Platform : UNITY / C#
 
 Unity Version : 2021.2
 
-Inspired by Jonathan Weinberger
-
 ## Download and Prepare Project Files
 On this repository https://github.com/luthfan360/Platformer-Prototype
 1. Click on Code
